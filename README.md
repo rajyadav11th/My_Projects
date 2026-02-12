@@ -1,2 +1,1 @@
-# byteverse-project
-the theme of this project is food quality and hunger
+In this repository i will be uploading my upcoming projects..
